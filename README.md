@@ -1,4 +1,4 @@
 # Week-1-Activities
-Official activities for week 1 (M-T-Th)
+Official activities for weeks 1 & 2 (M-T-Th)
 
-Adding all cloned activities for week 1
+Adding all cloned activities for Phase 1
